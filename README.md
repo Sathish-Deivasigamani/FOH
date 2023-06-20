@@ -1,2 +1,2 @@
 # FOH
-Fountain of healt
+Fountain of health
